@@ -1,11 +1,9 @@
 ## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
 
- 
+ Reg:212224040219
+ Name:Nikhil H
 
 ## AIM:
- 
-
- 
 
 To write a C program to implement the Playfair Substitution technique.
 
